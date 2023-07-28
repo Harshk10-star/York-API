@@ -18,9 +18,6 @@ import redis
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
 
-    # redis_host = 'localhost'
-    # redis_port = 6379
-    # r = redis.StrictRedis(host=redis_host, port=redis_port,decode_responses=True)
 
     driver = webdriver.Chrome()
     driver.get("https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm")
@@ -29,16 +26,13 @@ if __name__ == '__main__':
                                     "body > p > table > tbody > tr:nth-child(2) > td.bodytext > table > tbody > tr:nth-child(3) > td > a")
     goSubject.click()
 
-    # will loop through sessions later
-    # session = driver.find_element(By.CSS_SELECTOR, "#sessionSelect > option:nth-child(2)")
-    # session.click()
+
 
     # only working with Kelee Campus
 
     campus = driver.find_element(By.CSS_SELECTOR, "#campusSelect > option:nth-child(3)")
     campus.click()
 
-    # Button to submit form
 
     press = driver.find_element(By.CSS_SELECTOR,
                                 "body > table > tbody > tr:nth-child(2) > td:nth-child(2) > table > tbody > tr:nth-child(2) > td > table > tbody > tr > td > form > table > tbody > tr:nth-child(4) > td:nth-child(2) > input[type=submit]")
@@ -104,33 +98,7 @@ if __name__ == '__main__':
 
     faculties = ['SB', 'GS', 'AP', 'FA', 'SC', 'GL', 'ED', 'EU', 'LE', 'HH']
     driver.quit()
-    #
-    """
-    {
-       faculties: {
-           AP: 
-               {
-                    name: "AP",
-                    subjects: {
-                              subject#1: {
-                                   courseName#1: {
-                                       "faculty": subject_fac[0],
-                                       "subject": subject_fac[1],
-                                       "course_code": temp[1],
-                                       "course_cerdit": temp[2]
-                                   }
 
-                             }
-                    }
-             
-               }
-       }
-    }
-    done!
-    """
-    # / v1 / courses / index / faculties
-    # / v1 / courses / index / {faculty}
-    # / v1 / courses / index / {faculty} / {subject}
     sb = []
     gs = []
     ap = []
@@ -268,68 +236,6 @@ if __name__ == '__main__':
             obj["faculties"]["HH"][sub]["courses"] = []
         obj["faculties"]["HH"][sub]["courses"].append(c)
 
-    faculties_info = {
-        "SB": {
-            "name": "Schulich School of Business",
-            "description": "Offering programs in business administration.",
-            "location": "York University - Keele Campus",
-            "dean": "John Doe"
-        },
-        "GS": {
-            "name": "Faculty of Graduate Studies",
-            "description": "Offering various graduate programs.",
-            "location": "York University - Keele Campus",
-            "dean": "Jane Smith"
-        },
-        "AP": {
-            "name": "Faculty of Applied Science",
-            "description": "Offering programs in engineering and technology.",
-            "location": "York University - Keele Campus",
-            "dean": "Robert Johnson"
-        },
-        "FA": {
-            "name": "Faculty of Arts",
-            "description": "Offering programs in humanities and social sciences.",
-            "location": "York University - Keele Campus",
-            "dean": "Emily Williams"
-        },
-        "SC": {
-            "name": "Faculty of Science",
-            "description": "Offering programs in natural sciences.",
-            "location": "York University - Keele Campus",
-            "dean": "Michael Brown"
-        },
-        "GL": {
-            "name": "Faculty of Glendon",
-            "description": "Offering programs in bilingual studies.",
-            "location": "York University - Glendon Campus",
-            "dean": "Sophie Martin"
-        },
-        "ED": {
-            "name": "Faculty of Education",
-            "description": "Offering programs in education and teaching.",
-            "location": "York University - Keele Campus",
-            "dean": "William Clark"
-        },
-        "EU": {
-            "name": "Faculty of Environmental Studies",
-            "description": "Offering programs in environmental studies.",
-            "location": "York University - Keele Campus",
-            "dean": "Olivia White"
-        },
-        "LE": {
-            "name": "Lassonde School of Engineering",
-            "description": "Offering programs in engineering and computer science.",
-            "location": "York University - Keele Campus",
-            "dean": "David Lee"
-        },
-        "HH": {
-            "name": "Faculty of Health",
-            "description": "Offering programs in health sciences.",
-            "location": "York University - Keele Campus",
-            "dean": "Elizabeth Taylor"
-        }
-    }
-    obj["faculties_info"] = faculties_info
+
     with open("courses.json", "w") as json_file:
         json.dump(obj, json_file, indent=4)
