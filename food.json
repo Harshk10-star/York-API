@@ -1,0 +1,583 @@
+{
+    "BRG": [
+        {
+            "name": "Market",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, GF, H, Global Cuisines"
+        }
+    ],
+    "CSQ": [
+        {
+            "name": "CSQ Market - 416 Burger Co.",
+            "Monday-Thursday": "8am - 4 pm",
+            "Friday": "8am - 3 pm",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        },
+        {
+            "name": "CSQ Market - Chef's Table",
+            "Monday-Thursday": "8am - 4 pm",
+            "Friday": "8am - 3 pm",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        },
+        {
+            "name": "CSQ Market - Create Stir Fry",
+            "Monday-Thursday": "8am - 4 pm",
+            "Friday": "8am - 3 pm",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        },
+        {
+            "name": "CSQ Market - Rasoi",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        },
+        {
+            "name": "CSQ Market - Pop Up Pasta",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        },
+        {
+            "name": "Tim Hortons",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, North American"
+        },
+        {
+            "name": "Booster Juice ",
+            "Monday-Thursday": "10 am - 5 pm",
+            "Friday": "10 am - 3 pm",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, North American"
+        },
+        {
+            "name": "Pizza Pizza ",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": "VG, H, Global Cuisines"
+        },
+        {
+            "name": "Starbucks",
+            "Monday-Thursday": "7 am - 9 pm",
+            "Friday": "7 am - 5 pm",
+            "Saturday": "9 am - 4 pm",
+            "Menu_offering": "V, VG, North American"
+        },
+        {
+            "name": "Subway",
+            "Monday-Thursday": "11 am - 7 pm",
+            "Friday": "11 am - 5 pm",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, NG, Global Cuisines"
+        }
+    ],
+    "CFT": [
+        {
+            "name": "Starbucks",
+            "Monday-Thursday": "8 am - 5 pm",
+            "Friday": "8am to 4 pm",
+            "Saturday": "9 am-3 pm",
+            "Menu_offering": "V, VG, North American"
+        }
+    ],
+    "DB": [
+        {
+            "name": "DB Cafeteria - 416 Burger Co",
+            "Monday-Thursday": "8 am - 4 pm",
+            "Friday": "8 am - 3pm",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        },
+        {
+            "name": "DB Cafeteria - Revolution Noodles & Smokes",
+            "Monday-Thursday": "10 am - 4 pm",
+            "Friday": "10 am - 3 pm",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        },
+        {
+            "name": "DB Cafeteria - Chop'd Wrap'd",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        },
+        {
+            "name": "Tim Hortons",
+            "Monday-Thursday": "7:30 am - 6 pm",
+            "Friday": "7:30 am - 4 pm",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, North American"
+        }
+    ],
+    "LAS": [
+        {
+            "name": "Palgong Tea (NEW!)",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, NG, Korean"
+        }
+    ],
+    "OSG": [
+        {
+            "name": "Bistro",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, NG, H, Global Cuisines"
+        }
+    ],
+    "SC": [
+        {
+            "name": "The Orange Snail (reopening July 15th)",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, NG, H, Global Cuisines"
+        },
+        {
+            "name": "SC Cafeteria - Pizza Pizza",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": "VG, H, Global Cuisines"
+        },
+        {
+            "name": "SC Cafeteria - Grill House",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        },
+        {
+            "name": "SC Cafeteria - Chef's Table",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        },
+        {
+            "name": "SC Cafeteria - Create",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        }
+    ],
+    "WSC": [
+        {
+            "name": "Tim Hortons",
+            "Monday-Thursday": "7:30 am - 6pm",
+            "Friday": "7:30 am - 5 pm",
+            "Saturday": "9 am - 4 pm",
+            "Menu_offering": "V, VG, North American"
+        }
+    ],
+    "WC": [
+        {
+            "name": "Country Style (Kosher Deli)",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, H, K, Mediterranean"
+        },
+        {
+            "name": "WC Cafeteria - Pizza Pizza",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": "VG, H, Global Cuisines"
+        },
+        {
+            "name": "WC Cafeteria - Grill House",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        },
+        {
+            "name": "WC Cafeteria - Chef's Table",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        },
+        {
+            "name": "WC Cafeteria - Create",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        }
+    ],
+    "FSC": [
+        {
+            "name": "Wendy's",
+            "Monday-Thursday": "7 am - 12 am",
+            "Friday": "7 am - 12 am",
+            "Saturday": "7 am - 12 am",
+            "Menu_offering": "North American"
+        },
+        {
+            "name": "Jimmy The Greek",
+            "Monday-Thursday": "9 am - 9 pm",
+            "Friday": "9 am - 9 pm",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, NG, Greek"
+        },
+        {
+            "name": "Pagoda Tree",
+            "Monday-Thursday": "10:30 am - 9 pm",
+            "Friday": "10:30 am - 9 pm",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, NG, H, Korean"
+        },
+        {
+            "name": "The Islands Caribbean Cuisine",
+            "Monday-Thursday": "11 am to 9 pm",
+            "Friday": "11 am - 9 pm",
+            "Saturday": "12 pm - 8 pm",
+            "Menu_offering": "V, VG, NG, H, Caribbean"
+        },
+        {
+            "name": "Gino's Pizza",
+            "Monday-Thursday": "10 am - 9:30 pm",
+            "Friday": "10 am - 9:30 pm",
+            "Saturday": "11 am - 9:30 pm",
+            "Menu_offering": "V, VG, NG, H, Italian"
+        },
+        {
+            "name": "Mac's Sushi",
+            "Monday-Thursday": "9 am - 7 pm",
+            "Friday": "9 am - 7 pm",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, NG, Japanese"
+        },
+        {
+            "name": "Treats",
+            "Monday-Thursday": "7 am - 10 pm",
+            "Friday": "7 am - 10 pm",
+            "Saturday": "10 am - 5 pm",
+            "Menu_offering": ""
+        },
+        {
+            "name": "Gateway",
+            "Monday-Thursday": "9 am - 9 pm",
+            "Friday": "9 am - 9 pm",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        },
+        {
+            "name": "Yogen Fruz",
+            "Monday-Thursday": "10 am - 6 pm",
+            "Friday": "10 am - 6 pm",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, Dessert"
+        },
+        {
+            "name": "The Break Room (Formerly The Undergound)",
+            "Monday-Thursday": "10 am - 11 pm",
+            "Friday": "10 am - 12 am",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, H, Global Cuisine"
+        }
+    ],
+    "SCS": [
+        {
+            "name": "KitchenMate (NEW!)",
+            "Monday-Thursday": "All Day",
+            "Friday": "Click Here",
+            "Saturday": "V, VG, NG, H, K, Global Cuisines",
+            "Menu_offering": ""
+        }
+    ],
+    "SD": [
+        {
+            "name": "Executive Dining Room",
+            "Monday-Thursday": "7 am - 2:00 pm",
+            "Friday": "7 am - 2:00 pm",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, NG, H, Global Cuisines"
+        },
+        {
+            "name": "Schulich Market Caf (Schulich School of Business)",
+            "Monday-Thursday": "7 am - 7 pm",
+            "Friday": "7 am - 3 pm",
+            "Saturday": "Closed",
+            "Menu_offering": "VG, H, Global Cuisines"
+        },
+        {
+            "name": "Schulich Market Caf (McEwen Building)",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": "VG, H, Global Cuisines"
+        },
+        {
+            "name": "Tuchners Pub",
+            "Monday-Thursday": "Closed",
+            "Friday": "Closed",
+            "Saturday": "Closed",
+            "Menu_offering": ""
+        }
+    ],
+    "YLM": [
+        {
+            "name": "Pita Land ",
+            "Monday-Thursday": "7:30 am - 2 am",
+            "Friday": "9:00 am - 2 am",
+            "Saturday": "9:00 am - 12 am",
+            "Menu_offering": "V, VG, NG, H, Middle Eastern"
+        },
+        {
+            "name": "Timbers Lodge",
+            "Monday-Thursday": "11 am - 2 am",
+            "Friday": "11 am - 2 am",
+            "Saturday": "11 am - 2 am",
+            "Menu_offering": "V, VG, NG, H, Global Cuisine"
+        },
+        {
+            "name": "Z-Teca",
+            "Monday-Thursday": "12 pm - 9 pm",
+            "Friday": "12 pm - 7 pm",
+            "Saturday": "12 pm - 7 pm",
+            "Menu_offering": "V, VG, H, Mexican"
+        },
+        {
+            "name": "La Prep",
+            "Monday-Thursday": "7:30 am - 9 pm",
+            "Friday": "11 am - 6 pm",
+            "Saturday": "Closed",
+            "Menu_offering": "V, VG, Global Cuisines"
+        },
+        {
+            "name": "Thai Express",
+            "Monday-Thursday": "10 am - 11 pm",
+            "Friday": "11:00 am - 10 pm",
+            "Saturday": "11:00 am - 10 pm",
+            "Menu_offering": "V, VG, NG, Thai"
+        },
+        {
+            "name": "Popeyes",
+            "Monday-Thursday": "10 am - 11 pm",
+            "Friday": "11:00 am - 10 pm",
+            "Saturday": "11:00 am - 10 pm",
+            "Menu_offering": "H, North American"
+        },
+        {
+            "name": "Hero Certified Burgers",
+            "Monday-Thursday": "11 am - 9 pm",
+            "Friday": "11 am - 9 pm",
+            "Saturday": "11 am - 9 pm",
+            "Menu_offering": "V, VG, NG, H, North American"
+        },
+        {
+            "name": "Sushi Shop",
+            "Monday-Thursday": "11 am - 10:30 pm",
+            "Friday": "11:30 am - 9 pm",
+            "Saturday": "11:30 am - 9 pm",
+            "Menu_offering": "V, VG, NG, H, Japanese"
+        },
+        {
+            "name": "Sakura  ",
+            "Monday-Thursday": "10:30 am - 11pm",
+            "Friday": "10:30 am - 10 pm",
+            "Saturday": "11 am - 9 pm",
+            "Menu_offering": "V, ,VG, H, Japanese, Korean"
+        },
+        {
+            "name": "Cucina Italian Cafe",
+            "Monday-Thursday": "8 am - 11 pm",
+            "Friday": "3 pm - 11 pm",
+            "Saturday": "3 pm - 11 pm",
+            "Menu_offering": "V, VG, Italian"
+        },
+        {
+            "name": "The Great Canadian Bagel",
+            "Monday-Thursday": "8 am - 7 pm",
+            "Friday": "10 am - 3 pm",
+            "Saturday": "10 am - 3 pm",
+            "Menu_offering": "V, VG, NG, North American"
+        },
+        {
+            "name": "Aroma Espresso Bar",
+            "Monday-Thursday": "7:30 am - 8 pm",
+            "Friday": "8:30 am - 5 pm",
+            "Saturday": "8:30 am - 5 pm",
+            "Menu_offering": "V, VG, NG, Mediterranean"
+        },
+        {
+            "name": "The Campus Bubble Tea",
+            "Monday-Thursday": "10:30 am - 10:30 pm",
+            "Friday": "1 pm - 8:30 pm",
+            "Saturday": "1 pm - 8:30 pm",
+            "Menu_offering": "Chinese"
+        },
+        {
+            "name": "Qoola FRESH",
+            "Monday-Thursday": "8:00 am - 9:00 pm",
+            "Friday": "10:00 am - 7:00 pm",
+            "Saturday": "10:00 am - 7 pm",
+            "Menu_offering": "V, VG, NG, H, Global Cuisines"
+        },
+        {
+            "name": "Chaska Indian Street Food",
+            "Monday-Thursday": "11 am - 9 pm",
+            "Friday": "11 am - 9 pm",
+            "Saturday": "11 am - 9 pm",
+            "Menu_offering": "V, VG, NG, H, Indian"
+        }
+    ],
+    "Q": [
+        {
+            "name": "Crepe Delicious",
+            "Monday-Thursday": "Coming soon",
+            "Friday": "",
+            "Saturday": "",
+            "Menu_offering": "V, NG, H, French"
+        },
+        {
+            "name": "Gong cha",
+            "Monday-Thursday": "11 am -11 pm",
+            "Friday": "12 pm - 8 pm",
+            "Saturday": "12 pm - 8 pm",
+            "Menu_offering": "V, Thai"
+        },
+        {
+            "name": "Amaya Express",
+            "Monday-Thursday": "12 pm - 9:45 pm",
+            "Friday": "12 pm - 9:45 pm",
+            "Saturday": "12 pm - 9:45 pm",
+            "Menu_offering": "V, VG, H, Indian"
+        },
+        {
+            "name": "Pizza Studio",
+            "Monday-Thursday": "11: 30 am - 12 am (open until 2 am on Thurs)",
+            "Friday": "11:30 am - 3 am",
+            "Saturday": "11:30 am - 3 am",
+            "Menu_offering": "V, VG, NG, North American"
+        },
+        {
+            "name": "Meltwich Food Co.",
+            "Monday-Thursday": "11 am - 2 am",
+            "Friday": "12 pm - 2 am",
+            "Saturday": "12 pm - 2 am",
+            "Menu_offering": "V, VG, NG, H, North American"
+        },
+        {
+            "name": "Basil Box",
+            "Monday-Thursday": "11 am - 8 pm",
+            "Friday": "12pm - 7 pm",
+            "Saturday": "12pm - 7 pm",
+            "Menu_offering": "V, VG, NG, H, Thai"
+        },
+        {
+            "name": "Mandarin 2 Go",
+            "Monday-Thursday": "11 am - 9 pm",
+            "Friday": "11:30 am - 9 pm",
+            "Saturday": "11:30 am - 9 pm",
+            "Menu_offering": "V, Chinese"
+        },
+        {
+            "name": "Chungchun",
+            "Monday-Thursday": "11 am - 11 pm",
+            "Friday": "11 am - 11 pm",
+            "Saturday": "11 am - 11 pm",
+            "Menu_offering": "V, VG, H, Korean"
+        },
+        {
+            "name": "Burger King",
+            "Monday-Thursday": "7 am - 12 am",
+            "Friday": "7 am - 12 am",
+            "Saturday": "7 am - 12 am",
+            "Menu_offering": "V, ,VG, North American"
+        },
+        {
+            "name": "Salus Fresh Food",
+            "Monday-Thursday": "11 am - 8 pm",
+            "Friday": "11 am - 6 pm",
+            "Saturday": "11 am - 6 pm",
+            "Menu_offering": "V, VG, NG, Global Cuisines"
+        },
+        {
+            "name": "Fat Bastard Burrito",
+            "Monday-Thursday": "11 am - 11 pm\n(open until 12 pm on Thurs)",
+            "Friday": "11 am - 12 pm",
+            "Saturday": "11 am - 12 pm",
+            "Menu_offering": "V, VG, NG, Mexican"
+        },
+        {
+            "name": "Galitos Flamed Grilled Chicken",
+            "Monday-Thursday": "11 am - 11 pm",
+            "Friday": "11 am - 11 pm",
+            "Saturday": "11 am - 11 pm",
+            "Menu_offering": "V, H, South African"
+        },
+        {
+            "name": "Osmows Shawarma",
+            "Monday-Thursday": "10 am - 5 pm",
+            "Friday": "10 am - 5 pm",
+            "Saturday": "10 am - 5 pm",
+            "Menu_offering": "V, VG, NG, H, Middle Eastern"
+        },
+        {
+            "name": "Subway",
+            "Monday-Thursday": "8 am - 12 am",
+            "Friday": "9 am - 1 am",
+            "Saturday": "10 am - 10 pm",
+            "Menu_offering": "V, VG, NG, North American"
+        },
+        {
+            "name": "Aroma Espresso Bar",
+            "Monday-Thursday": "7:30 am - 10 pm",
+            "Friday": "7:30 am - 10 pm",
+            "Saturday": "7:30 am - 10 pm",
+            "Menu_offering": "V, VG, NG, Mediterranean"
+        },
+        {
+            "name": "Booster Juice",
+            "Monday-Thursday": "7 am - 9 pm",
+            "Friday": "8 am - 9 pm",
+            "Saturday": "10 am - 6 pm",
+            "Menu_offering": "V, VG, North American"
+        },
+        {
+            "name": "Sushi-Q",
+            "Monday-Thursday": "10:30 am - 9 pm",
+            "Friday": "10:30 am - 9 pm",
+            "Saturday": "10:30 am - 9 pm",
+            "Menu_offering": "VG, H, Japanese, Korean"
+        },
+        {
+            "name": "Omni Noodle",
+            "Monday-Thursday": "Coming soon",
+            "Friday": "",
+            "Saturday": "",
+            "Menu_offering": ""
+        },
+        {
+            "name": "Chipotle Mexican Grill",
+            "Monday-Thursday": "Coming soon",
+            "Friday": "",
+            "Saturday": "",
+            "Menu_offering": ""
+        },
+        {
+            "name": "Insomnia Cookies",
+            "Monday-Thursday": "Coming soon",
+            "Friday": "",
+            "Saturday": "",
+            "Menu_offering": ""
+        }
+    ]
+}

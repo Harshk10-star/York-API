@@ -1,0 +1,148 @@
+{
+  "buildings": {
+    "ATK": "Atkinson",
+    "AR": "Atkinson College Residence",
+    "ACE": "Accolade East",
+    "ACW": "Accolade West",
+    "AO": "Archives of Ontario",
+    "BCSS": "Bennett Centre for Student Services",
+    "BC": "Bethune College",
+    "BR": "Bethune College Residence",
+    "BSB": "Behavioural Sciences Building",
+    "BU": "Burton Auditorium",
+    "CB": "Chemistry Building",
+    "CC": "Calumet College",
+    "CR": "Calumet College Residence",
+    "CFA": "Joan & Martin Goldfarb Centre for Fine Arts",
+    "CMB": "Computer Methods Building",
+    "CFT": "Centre for Film & Theatre",
+    "CLH": "Curtis Lecture Halls",
+    "CSQ": "Central Square",
+    "CUB": "Central Utilities Building",
+    "DB": "Victor Phillip Dahdaleh Building",
+    "ELC": "Executive Learning Centre",
+    "FC": "Founders College",
+    "FR": "Founders College Residence",
+    "FRQ": "Farquharson Life Sciences",
+    "GH": "Glendon Hall (Glendon Campus)",
+    "HC": "Lorna R. Marsden Honour Court & Welcome Centre",
+    "HNE": "Health Nursing and Environmental Studies",
+    "KT": "Kaneff Tower",
+    "K": "Kinsmen Building",
+    "LAS": "Lassonde Building",
+    "LMP": "LA&PS @ IBM Markham",
+    "LSB": "Life Sciences Building",
+    "LUM": "Lumbers Building",
+    "OSG": "Ignat Kaneff Building, Osgoode Hall Law School",
+    "MB": "Rob and Cheryl McEwen Graduate Study & Research Building",
+    "MC": "McLaughlin College",
+    "PON": "Pond Road Residence",
+    "PASSY": "Passy Gardens Residence",
+    "PRB": "Physical Resources Building",
+    "PSE": "Petrie Science & Engineering Building (and Observatory)",
+    "R N": "Ross Building - North",
+    "R S": "Ross Building - South",
+    "SAY": "Seneca @ York",
+    "SC": "Stong College",
+    "SCL": "Scott Library",
+    "STC": "Student Centre",
+    "SLH": "Stedman Lecture Halls",
+    "SSB": "The Seymour Schulich Building",
+    "SHR": "Sherman Health Science Research Centre",
+    "STL": "Steacie Science & Engineering Library",
+    "TC": "Tennis Canada – Sobeys Stadium",
+    "TFC": "Toronto Track & Field Centre",
+    "TM": "Tait McKenzie",
+    "VC": "Vanier College",
+    "VH": "Vari Hall",
+    "WC": "Winters College",
+    "WOB": "West Office Building",
+    "WSC": "William Small Centre",
+    "YH": "York Hall (Glendon Campus)",
+    "YL": "York Lanes",
+    "YSF": "York Student Fieldhouse (East/West) (Tait McKenzie Building)",
+    "R": "Ross Building"
+  },
+   "faculties_info": {
+        "SB": {
+            "name": "Schulich School of Business",
+            "description": "Offering programs in business administration.",
+            "location": "York University - Keele Campus",
+            "dean": "John Doe"
+        },
+        "GS": {
+            "name": "Faculty of Graduate Studies",
+            "description": "Offering various graduate programs.",
+            "location": "York University - Keele Campus",
+            "dean": "Jane Smith"
+        },
+        "AP": {
+            "name": "Faculty of Applied Science",
+            "description": "Offering programs in engineering and technology.",
+            "location": "York University - Keele Campus",
+            "dean": "Robert Johnson"
+        },
+        "FA": {
+            "name": "Faculty of Arts",
+            "description": "Offering programs in humanities and social sciences.",
+            "location": "York University - Keele Campus",
+            "dean": "Emily Williams"
+        },
+        "SC": {
+            "name": "Faculty of Science",
+            "description": "Offering programs in natural sciences.",
+            "location": "York University - Keele Campus",
+            "dean": "Michael Brown"
+        },
+        "GL": {
+            "name": "Faculty of Glendon",
+            "description": "Offering programs in bilingual studies.",
+            "location": "York University - Glendon Campus",
+            "dean": "Sophie Martin"
+        },
+        "ED": {
+            "name": "Faculty of Education",
+            "description": "Offering programs in education and teaching.",
+            "location": "York University - Keele Campus",
+            "dean": "William Clark"
+        },
+        "EU": {
+            "name": "Faculty of Environmental Studies",
+            "description": "Offering programs in environmental studies.",
+            "location": "York University - Keele Campus",
+            "dean": "Olivia White"
+        },
+        "LE": {
+            "name": "Lassonde School of Engineering",
+            "description": "Offering programs in engineering and computer science.",
+            "location": "York University - Keele Campus",
+            "dean": "David Lee"
+        },
+        "HH": {
+            "name": "Faculty of Health",
+            "description": "Offering programs in health sciences.",
+            "location": "York University - Keele Campus",
+            "dean": "Elizabeth Taylor"
+        }
+    },
+  "food_areas": {
+    "BRG": "Bergeron Centre",
+    "CSQ": "Central Square",
+    "CFT": "Centre for Film & Theatre",
+    "DB": "Dahdaleh Building",
+    "LAS": "Lassonde Building",
+    "OSG": "Osgoode Hall Law School",
+    "SC": "Strong College",
+    "WSC": "William Small Centre",
+    "WC": "Winters College",
+    "FSC": "First Student Centre",
+    "SCS": "School of Continuing Studies",
+    "SD": "Schulich Dining",
+    "YLM": "York Lanes Mall",
+    "Q": "The Quad"
+  }
+
+
+
+
+}
