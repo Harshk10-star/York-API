@@ -1,6 +1,6 @@
 # York-API
 
-This is a York API with these endpoints:
+Endpoints:
 
 /v1/courses/index/faculties \
 /v1/courses/index/<faculty> \
